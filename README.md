@@ -1,6 +1,8 @@
 # LAB7-9
 Gestiune laboratoare studenți
+
 Scrieți o aplicație pentru gestiunea notelor și a problemelor de laborator pentru o disciplină.
+
 Aplicația gestionează:
 - studenți: <studentID>,<nume>,<grup>
 - problemă laborator: <număr laborator_număr problemă>,<descriere>, <deadline>
